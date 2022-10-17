@@ -26,7 +26,7 @@ Once considered to be an indulgence and luxury for customers, the cookie market 
 
 ## Screenshots
 
-![App Screenshot](Cookie Sales Report.png)
+![My Image](Cookie Sales Report.png)
 
 
 ## Demo
